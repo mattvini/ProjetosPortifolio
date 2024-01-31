@@ -1,7 +1,7 @@
-Portifólio para Análise de dados.
-o Portifólio está sendo atualizando semanalmente
-conforme eu vou desenvolvendo mais habilidades
-em programas de Dados. 
+Portifólio para Estágio na área de Análise de dados.
+O Portifólio está sendo atualizando semanalmente
+conforme eu vou desenvolvendo proficiência em Softwares diferentes
+
 
 Atualmente estou trabalhando em um projeto de PowerBI
 que será adicionado ao portifólio logo menos.
